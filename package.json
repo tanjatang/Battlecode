@@ -1,0 +1,16 @@
+{
+  "name": "battlecode_examplebots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bc19": "^0.3.23",
+    "queue": "^5.0.0",
+    "tinyqueue": "^2.0.0"
+  }
+}
